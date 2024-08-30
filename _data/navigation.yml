@@ -1,0 +1,7 @@
+main:
+  - title: "Trip Reports"
+    url: /trip-reports/
+  - title: "External Link"
+    url: https://google.com
+    target: _blank
+
