@@ -1,6 +1,18 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Trip Reports"
     url: /trip-reports/
+  - title: "FAQs"
+    url: /faqs/
+  - title: "Gear Rentals"
+    url: /gear-rentals/
+  - title: "Leadership"
+    url: /leadership/
+  - title: "Resources"
+    url: /resources/
+  - title: "Places"
+    url: /places/
   - title: "External Link"
     url: https://google.com
     target: _blank
