@@ -22,3 +22,49 @@ search: false
     font-weight: bold;
   }
 }
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+  font-size: $type-size-3;
+
+  @include breakpoint($large) {
+    font-size: $type-size-7;
+  }
+
+  a {
+    display: block;
+    padding: 0.25rem 0.75rem;
+    color: $muted-text-color;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+
+    &:hover {
+      color: $text-color;
+    }
+  }
+
+  li ul > li a {
+    padding-inline-start: 1.25rem;
+    font-weight: normal;
+  }
+
+  li ul li ul > li a {
+    padding-inline-start: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-inline-start: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-inline-start: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-inline-start: 3.25rem;
+  }
+}
