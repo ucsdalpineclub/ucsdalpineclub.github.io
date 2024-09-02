@@ -13,7 +13,4 @@ main:
     url: /resources/
   - title: "Places"
     url: /places/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
 
