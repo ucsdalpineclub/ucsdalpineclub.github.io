@@ -54,7 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -62,7 +61,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
 
