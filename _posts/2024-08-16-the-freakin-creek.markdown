@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "The Freakin' Creek"
+title:  "An Alpen-hike up Mt Baldy"
 date:   2024-08-29 12:19:43 -0700
 categories: jekyll update
 ---
