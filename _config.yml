@@ -23,7 +23,7 @@ email: avoid-spam@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Alpine Club at UC San Diego! Yes, the beach town. Yes, we are stoked. And yes, we go to them as often as our advisors let us. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ucsdalpineclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ucsdalpineclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -58,7 +58,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: "post"
       author_profile: true
       read_time: true
       comments: # true
