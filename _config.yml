@@ -52,7 +52,7 @@ paginate_path: /page:num/
 # their entries' file path in the `include:` list.
 include:
   - _posts/
-  - trs
+  - trs/
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
