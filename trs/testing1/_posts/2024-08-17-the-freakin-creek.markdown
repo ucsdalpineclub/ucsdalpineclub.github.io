@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "Creek in _posts"
-date:   2024-08-17 12:19:43 -0700
+title:  "Creek in testing"
+date:   2024-08-18 12:19:43 -0700
 ---
 
 ![image]("../winter.png")
