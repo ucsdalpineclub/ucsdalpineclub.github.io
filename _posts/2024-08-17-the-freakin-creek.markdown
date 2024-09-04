@@ -3,10 +3,9 @@ layout: posts
 title:  "Creek in _posts"
 date:   2024-08-17 12:19:43 -0700
 ---
-<h1>{{ post.categories }}</h1>
 
+![image](images/winter.png)
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-![image](winter.png)
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
