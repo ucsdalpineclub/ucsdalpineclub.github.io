@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Creek in _posts"
+title:  "Creek in posts"
 date:   2024-08-17 12:19:43 -0700
 ---
 
