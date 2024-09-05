@@ -51,7 +51,6 @@ paginate_path: /page:num/
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 include:
-  - _posts
   - trs
 # exclude:
 #   - .sass-cache/
