@@ -27,6 +27,7 @@ url: "https://ucsdalpineclub.github.io" # the base hostname & protocol for your 
 twitter_username: jekyllrb
 github_username:  jekyll
 
+markdown: kramdown
 # Build settings
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
