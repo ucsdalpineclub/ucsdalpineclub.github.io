@@ -4,7 +4,7 @@ main:
   - title: "Trip Reports"
     url: /trip-reports.md
   - title: "FAQs"
-    url: /faqs.md
+    url: /faqs/
   - title: "Gear Rentals"
     url: /gear-rentals/
   - title: "Leadership"
