@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 title:  "Seasonal Adventures in Idyllwild"
 date:   2024-01-01 12:19:43 -0700
+classes: wide
 gallery:
   - url: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
     image_path: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
