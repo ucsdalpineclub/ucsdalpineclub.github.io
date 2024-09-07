@@ -3,12 +3,19 @@ title: FAQs
 permalink: /faqs/
 layout: splash
 ---
+# FAQs
 ### What's the vibe?
-First and foremost, we are a social club! This is a loose amalgamation of mostly grad students and a few undergrads who are extremely stoked about mountains. If you're new, that's A-OK -- many of our members got started with this stuff through the club. On the other hand, if you're more experienced, we think this is a really easy way to extend the pokedex! 
-We do official trips only occasionally, but rest assured, that's because we're busy sending most weekends! 
+First and foremost, we are a social club! This is a loose amalgamation of mostly grad students and a few undergrads who are stoked about doing stuff in the mountains. If you're new to the whole thing, that's A-OK -- many of our members got started with this stuff through the club. On the other hand, if you're more experienced, we think this is a really easy way to expand the partner list! 
 
-### What activities does this club do, exactly?
+### Do you do official trips?
+We do official trips only about once or twice a quarter, but rest assured, that's because we're busy sending most weekends! 
+
+### What activities do you guys do, exactly?
 Pretty much any sport that takes place in the mountains (especially in the backcountry)! We love hiking, backpacking, rock climbing, and mountaineering, but we also do things like ice climb and backcountry ski.
+
+
+### Wait, you all climb actual mountains? Like, with snow, ropes, and ice axes?
+Heck yeah! Come join!
 
 ### Are there tryouts?
 Absolutely not!
@@ -28,8 +35,6 @@ Nope! Even if you’ve never been above sea level, you are more than welcome to 
 ### Is this stuff dangerous?
 It can be. However, we try to emphasize safe practices and good preparation. Beyond that, some activities will be inherently more dangerous than others (for example, difficult alpine climbs are more dangerous than a backpacking trip), and it’s important to us that people only do stuff that they want to do and are adequately prepared for.
 
-### Wait, you all climb actual mountains? Like, with snow, ropes, and ice axes?
-Heck yeah! Come join!
 
 ### Ok, so you ONLY go outside, then?
 While we do love this stuff, we also go to the climbing gym regularly for fun and training. You’re welcome to join.
