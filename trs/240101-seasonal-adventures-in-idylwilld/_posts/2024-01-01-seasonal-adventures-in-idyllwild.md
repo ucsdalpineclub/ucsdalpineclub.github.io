@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Seasonal Adventures in Idyllwild"
+author: Michael Sandler
 date:   2024-01-01 12:19:43 -0700
 classes: wide
 gallery:
