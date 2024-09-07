@@ -2,9 +2,9 @@ main:
   - title: "Home"
     url: /
   - title: "Trip Reports"
-    url: /trip-reports/
+    url: /trip-reports.md
   - title: "FAQs"
-    url: /faqs/
+    url: /faqs.md
   - title: "Gear Rentals"
     url: /gear-rentals/
   - title: "Leadership"
