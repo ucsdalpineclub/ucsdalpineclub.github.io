@@ -1,4 +1,4 @@
 ---
-layout: single
+layout: splash
 ---
-## Testing!!
+# Testing!!
