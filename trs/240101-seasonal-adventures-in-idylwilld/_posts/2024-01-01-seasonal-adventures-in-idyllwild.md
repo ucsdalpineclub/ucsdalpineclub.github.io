@@ -2,6 +2,7 @@
 layout: posts
 title:  "Seasonal Adventures in Idyllwild"
 date:   2024-01-01 12:19:43 -0700
+classes: wide
 ---
 
 Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
