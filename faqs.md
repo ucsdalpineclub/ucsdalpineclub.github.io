@@ -7,7 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/faq-splash.JPG
 ---
-# FAQs
 ### What's the vibe?
 First and foremost, we are a social club! This is a loose amalgamation of mostly grad students and a few undergrads who are stoked about doing stuff in the mountains. If you're new to the whole thing, that's A-OK -- many of our members got started with this stuff through the club. On the other hand, if you're more experienced, we think this is a really easy way to expand the partner list! 
 
