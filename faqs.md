@@ -1,4 +1,5 @@
 ---
 layout: splash
 ---
-# Testing!!
+# FAQS!!
+testing text.
