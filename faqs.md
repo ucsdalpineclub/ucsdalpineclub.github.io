@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /splash-page/
+permalink: /faqs/
 layout: splash
 ---
 # FAQS!!
