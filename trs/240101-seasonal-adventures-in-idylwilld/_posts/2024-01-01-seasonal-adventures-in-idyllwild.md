@@ -2,7 +2,6 @@
 layout: posts
 title:  "Seasonal Adventures in Idyllwild"
 date:   2024-01-01 12:19:43 -0700
-
 gallery:
   - url: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
     image_path: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
@@ -21,7 +20,7 @@ Davide was finally back in town, and we had a free weekend to do some chill trad
 Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
 My trad gear was in Orange County with Andrew (this had almost ruined the previous week’s much less silly outing), so we invited him as a third for Saturday and for camping. Hopefully, this would provide sufficient incentive to give me back my cams. We posted in the chat, and Carrie happily joined us on the ride over — she had invited a few old friends to join us for camping. I booked a campsite, and we were off to the races. We, as always, met at Higher Grounds (now renamed ‘Pure Coffee’ — I refuse to use the new name). Andrew arrived, Carrie’s friends arrived. We handed them our guidebook, and headed on up! On the approach, the views were spectacular. The trees were above the clouds, and the typical socal desert was completely invisible. Fall colors were peeking through, and Idyllwild was as beautiful as ever.
 
-{% include gallery %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 The plan was to do Jensen’s Jaunt, 5.6, 4 pitches — Andrew is experienced in the backcountry and comfortable with exposure due to various third class adventures, so we felt comfortable taking him up despite his inexperience with ropes. The first three pitches were uneventful, save for the summoning of Cthulu on pitch 2 (someday I’ll have a tangle-free day with a party of three…) The only excitement was the clouds speeding by us at uncharacteristic rates. The climbing was cruiser, and due to the nature of the clouds, we were confident that when they slammed into the rock, we would be prepared. Worst came to worst, we’d just do the gully descent instead of the friction slabs.
 
