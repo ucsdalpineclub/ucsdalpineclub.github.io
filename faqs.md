@@ -2,6 +2,11 @@
 title: FAQs
 permalink: /faqs/
 layout: splash
+feature_row:
+ - image_path: /assets/faq-splash.JPG
+    alt: "bear creek spire"
+    title: "FAQs"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 # FAQs
 ### What's the vibe?
