@@ -14,7 +14,7 @@ gallery:
 
 Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
 
-{% include figure popup=true image_path=/trs/240101-seasonal-adventures-in-idylwilld/idy1.jpg" caption="*Dave, Carrie, and Andrew waiting for company at higher grounds*" %}
+{% include figure image_path=/trs/240101-seasonal-adventures-in-idylwilld/idy1.jpg" caption="Dave, Carrie, and Andrew waiting for company at higher grounds" %}
 
 Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
 My trad gear was in Orange County with Andrew (this had almost ruined the previous week’s much less silly outing), so we invited him as a third for Saturday and for camping. Hopefully, this would provide sufficient incentive to give me back my cams. We posted in the chat, and Carrie happily joined us on the ride over — she had invited a few old friends to join us for camping. I booked a campsite, and we were off to the races. We, as always, met at Higher Grounds (now renamed ‘Pure Coffee’ — I refuse to use the new name). Andrew arrived, Carrie’s friends arrived. We handed them our guidebook, and headed on up! On the approach, the views were spectacular. The trees were above the clouds, and the typical socal desert was completely invisible. Fall colors were peeking through, and Idyllwild was as beautiful as ever.
