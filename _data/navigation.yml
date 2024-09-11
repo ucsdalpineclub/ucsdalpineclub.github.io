@@ -1,8 +1,6 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Trip Reports"
-    url: /trip-reports.md
+    url: /
   - title: "FAQs"
     url: /faqs/
   - title: "Gear Rentals"
