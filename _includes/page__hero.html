@@ -31,6 +31,9 @@
         {% endif %}
       </h1>
       {% include page__meta.html %}
+      {% if page.author %}
+        <p class="page__lead">{{ page.author | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
