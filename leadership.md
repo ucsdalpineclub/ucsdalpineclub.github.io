@@ -5,8 +5,9 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/faq-splash.JPG
+  overlay_image: /assets/officers/faq-splash.JPG
 ---
+[mike](/assets/mike.jpg)){: .align-left}
 **President:** Michael Sandler
 **Favorite Outing:** Mithril Dihedral on Mt Russel!
 **Favorite Mishap:** Forgetting my pants on a spring couloir climb
