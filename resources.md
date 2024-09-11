@@ -16,10 +16,10 @@ Climbing weather: NOAA tends to be the most reliable, but the altitude stuff is 
 
 ## Mountain sports on the cheap
 
-    European shops are way less expensive than American ones; use this to your advantage! oliunid.com, ekosport, and many, many others are way cheaper, and for big things (boots, skis, etc) can save you hundreds of dollars. This tends to be on the same scale as pro-deals. You can get a full skimo setup for less than 500 if you’re thoughtful.
-    The cheapest avalanche course in California is offered by the community college in Tahoe for roughly 80 bucks
-    REI returns are extremely generous…
-    UCSD Ski Club will give you an extra 200 dollars off on the Ikon pass on top of the student discount if you fill out a form and send them your class schedule. 
+* European shops are way less expensive than American ones; use this to your advantage! oliunid.com, ekosport, and many, many others are way cheaper, and for big things (boots, skis, etc) can save you hundreds of dollars. This tends to be on the same scale as pro-deals. You can get a full skimo setup for less than 500 if you’re thoughtful.
+* The cheapest avalanche course in California is offered by the community college in Tahoe for roughly 80 bucks
+* REI returns are extremely generous…
+* UCSD Ski Club will give you an extra 200 dollars off on the Ikon pass on top of the student discount if you fill out a form and send them your class schedule. 
 
 ## Our favorite local shops and cafes
 
