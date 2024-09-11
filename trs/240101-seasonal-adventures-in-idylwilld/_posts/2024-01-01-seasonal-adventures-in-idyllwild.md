@@ -4,6 +4,8 @@ title:  "Seasonal Adventures in Idyllwild"
 author: Michael Sandler
 date:   2024-01-01 12:19:43 -0700
 classes: wide
+header:
+  - teaser: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
 gallery:
   - url: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
     image_path: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
