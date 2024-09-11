@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/faq-splash.JPG
+  overlay_image: /assets/resources-splash.jpeg
 ---
 ## Good online resources:
 [Mountainproject](https://www.mountainproject.com): Great resource for climbing routes
