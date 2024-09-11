@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/officers/faq-splash.JPG
 ---
-![mike](/assets/mike.jpg)){: .align-left}
+![mike](/assets/officers/mike.jpg)){: .align-left}
 **President:** Michael Sandler
 **Favorite Outing:** Mithril Dihedral on Mt Russel!
 **Favorite Mishap:** Forgetting my pants on a spring couloir climb
