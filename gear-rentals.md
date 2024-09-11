@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/gear-splash.JPG
+  overlay_image: /assets/gear-splash.jpeg
 ---
 This is (hopefully) going to be one of the best things about the club — free gear rentals!
 Currently, the club owns:
