@@ -9,9 +9,13 @@ header:
 ---
 ## Good online resources:
 [Mountainproject](https://www.mountainproject.com): Great resource for climbing routes
+
 [Summitpost](https://www.summitpost.org/): Semi-defunct, but maintains good bits of info about mountains.
+
 [CalTopo](https://caltopo.com/map.html): Awesome for planning trips
+
 [Eastern Sierra avalanche forecast](https://www.esavalanche.org/), [socal snow](http://www.socalsnow.org/): For local avvy prognoses. Typically our own in-club beta is more up to date.
+
 [Mountain forecast](https://www.mountain-forecast.com/): NOAA tends to be the most reliable, but the altitude stuff is helpful. As always, make calls at your own risk.
 
 ## Mountain sports on the cheap
