@@ -1,5 +1,5 @@
 ---
-title: Join
+title: Contact+Join
 permalink: /join/
 layout: splash
 header:
@@ -7,10 +7,15 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/resources-splash.jpeg
 ---
-## Joining!
+### Get in touch
 To get in touch with other club members, please fill out this waiver:
+
 [Waiver and Slack](https://forms.gle/XdyzESwYfjN2Ucpn8)
+
 A link to the slack channel will appear after you fill it out!
 
-Our event calendar is below:
+### Join the club
+To join the club, come to any of the events below. It's 15 dollars/quarter, but if for some reason that stops you from joining, just talk to us! The dues are required to attend any official trip, or borrow gear.
+
+### Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=alpineclub%40ucsd.edu&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
