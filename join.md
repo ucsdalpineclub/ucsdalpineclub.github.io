@@ -15,7 +15,7 @@ To get in touch with other club members, please fill out this waiver:
 A link to the slack channel will appear after you fill it out!
 
 ### Join the club
-To join the club, come to any of the events below. It's 15 dollars/quarter, but if for some reason that stops you from joining, just talk to us! The dues are required to attend any official trip, or borrow gear.
+The dues are required to attend any official trip, or borrow gear. To join the club, please come to any of the events below! It's 15 dollars/quarter, or 30 dollars/year. If for some reason that stops you from joining, just talk to us! 
 
 ### Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=alpineclub%40ucsd.edu&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
