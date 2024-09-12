@@ -11,8 +11,6 @@ header:
 ##### President: Michael Sandler
 ![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
 
-**Favorite Outing:** Mithril Dihedral on Mt Russel!
-
 **Favorite Mishap:** Forgetting my... pants? on a spring couloir climb
 
 **Favorite place:** Some dusty pullout off the 395
@@ -23,8 +21,6 @@ header:
 ###### Social Media manager: Philipp Arndt
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
 
-**Favorite Outing:** El Matador on Devil's tower
-
 **Favorite Mishap:** 'I've actually never fucked up'
 
 **Favorite place:** Primos Mexican Cantina
@@ -34,8 +30,6 @@ header:
 ###### Mesa Rim coordinator: Jayanth Krishnan
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
 
-**Favorite Outing:** East Ridge of Mt Russel
-
 **Favorite Mishap:** OH GOD NO NOT THE HORSEFLIES
 
 **Favorite place:** Probably the Himalayas NGL
@@ -44,16 +38,9 @@ header:
 
 
 
+##### Deal Hound: Carrie Bishop
+**Favorite Mishap:** Stuck in the snow with 4 idiots, 3 shovels, and several mango cart 6-packs
 
-
-**Mesa Rim Coordinator:** Jayanth Krishnan
-**Favorite Outing:** ??
-**Favorite Mishap:** OH NO NOT THE HORSE FLIES
-**Favorite place:** ??
-**Superpowers:** Abundance of stoke
-
-**Deal Hound:** Carrie Bishop
-**Favorite Outing:** ??
-**Favorite Mishap:** Stuck in the snow with 4 idiots and 3 shovels
 **Favorite place:** Not in California, that's for sure
+
 **Superpowers:**  Freakishly strong fingers
