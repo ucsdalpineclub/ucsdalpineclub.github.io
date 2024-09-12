@@ -31,6 +31,17 @@ header:
 
 **Nickname:** Inspector Gadget or German Captain America
 
+###### Mesa Rim coordinator: Jayanth Krishnan
+![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+
+**Favorite Outing:** El Matador on Devil's tower
+
+**Favorite Mishap:** 'I've actually never fucked up'
+
+**Favorite place:** Primos Mexican Cantina
+
+**Nickname:** Inspector Gadget or German Captain America
+
 
 
 
