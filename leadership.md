@@ -20,8 +20,8 @@ header:
 **Superpowers:** Poison oak immunity
 
 
+###### Social Media manager: Philipp Arndt
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
-**Social Media manager:** Philipp Arndt
 
 **Favorite Outing:** El Matador on Devil's tower
 
