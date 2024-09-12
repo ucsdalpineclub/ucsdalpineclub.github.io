@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/officers/faq-splash.JPG
 ---
-![mike](/assets/officers/mike.jpg){: .align-left style="width: 25%;"}
+![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
 **President:** Michael Sandler
 
 **Favorite Outing:** Mithril Dihedral on Mt Russel!
@@ -16,14 +16,22 @@ header:
 
 **Favorite place:** Some pullout off the 395!
 
-**Superpowers:** Poison oak immunity\
+**Superpowers:** Poison oak immunity
 
 
 **Social Media manager:** Philipp Arndt
+
 **Favorite Outing:** El Matador on Devil's tower
+
 **Favorite Mishap:** 'I've actually never fucked up'
+
 **Favorite place:** Primos Mexican Cantina
+
 **Nickname:** German Captain America
+
+
+
+
 
 **Mesa Rim Coordinator:** Jayanth Krishnan
 **Favorite Outing:** ??
