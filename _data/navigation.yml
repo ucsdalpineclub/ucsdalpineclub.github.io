@@ -9,8 +9,6 @@ main:
     url: /leadership/
   - title: "Resources"
     url: /resources/
-  - title: "Places"
-    url: /places/
   - title: "Join"
     url: /join/
 
