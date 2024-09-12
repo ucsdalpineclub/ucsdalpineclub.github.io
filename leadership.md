@@ -7,12 +7,14 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/officers/faq-splash.JPG
 ---
-![mike](/assets/officers/mike.jpg){: .align-left}
+![mike](/assets/officers/mike.jpg){: .align-left style="width: 50%;"}
 **President:** Michael Sandler
 **Favorite Outing:** Mithril Dihedral on Mt Russel!
 **Favorite Mishap:** Forgetting my pants on a spring couloir climb
 **Favorite place:** Some pullout off the 395!
 **Superpowers:** Poison oak immunity
+
+###
 
 **Social Media manager:** Philipp Arndt
 **Favorite Outing:** El Matador on Devil's tower
