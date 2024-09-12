@@ -13,9 +13,9 @@ header:
 
 **Favorite Outing:** Mithril Dihedral on Mt Russel!
 
-**Favorite Mishap:** Forgetting my pants on a spring couloir climb
+**Favorite Mishap:** Forgetting my... pants? on a spring couloir climb
 
-**Favorite place:** Some pullout off the 395!
+**Favorite place:** Some dusty pullout off the 395
 
 **Superpowers:** Poison oak immunity
 
@@ -34,13 +34,13 @@ header:
 ###### Mesa Rim coordinator: Jayanth Krishnan
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
 
-**Favorite Outing:** El Matador on Devil's tower
+**Favorite Outing:** East Ridge of Mt Russel
 
-**Favorite Mishap:** 'I've actually never fucked up'
+**Favorite Mishap:** OH GOD NO NOT THE HORSEFLIES
 
-**Favorite place:** Primos Mexican Cantina
+**Favorite place:** Probably the Himalayas NGL
 
-**Nickname:** Inspector Gadget or German Captain America
+**Superpower:** High levels of stoke
 
 
 
