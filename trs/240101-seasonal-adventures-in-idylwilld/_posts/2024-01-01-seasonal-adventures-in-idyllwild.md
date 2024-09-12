@@ -18,9 +18,8 @@ gallery:
     title: "Fall approach!"
 ---
 
-Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
 
-![gang at higher grounds](/trs/240101-seasonal-adventures-in-idylwilld/idy1.jpg){: .align-center style="width: 50%;"}
+![gang at higher grounds](/trs/240101-seasonal-adventures-in-idylwilld/idy1.jpg){: .align-left style="width: 50%;"}
 
 
 Davide was finally back in town, and we had a free weekend to do some chill tradding. This could only mean one thing: Idyllwild! Forecast looked autumnal: comfortably above freezing at night, but certainly breezy. Maybe a light drizzle at night. Daytime was gonna be in the 50’s.
