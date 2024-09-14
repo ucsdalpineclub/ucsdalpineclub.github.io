@@ -17,9 +17,9 @@ header:
 **Favorite place:** Some dusty pullout off the 395
 
 **Superpowers:** Poison oak immunity
-
-
-
+ 
+ 
+ 
 
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
 
