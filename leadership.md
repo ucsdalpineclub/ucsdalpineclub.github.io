@@ -8,9 +8,10 @@ header:
   overlay_image: /assets/officers/faq-splash.JPG
 ---
 
-![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
 
-##### President: Michael Sandler
+![mike](/assets/officers/mike.jpg){: .align-left style="width: 13%;"}
+
+**President:** Michael Sandler
 
 **Favorite Mishap:** Forgetting my... pants? on a spring couloir climb
 
@@ -18,12 +19,10 @@ header:
 
 **Superpowers:** Poison oak immunity
  
- 
- 
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+![phil](/assets/officers/phil.jpg){: .align-left style="width: 13%;"}
 
-###### Social Media manager: Philipp Arndt
+**Social Media manager:** Philipp Arndt
 
 **Favorite Mishap:** 'I've actually never fucked up'
 
@@ -31,10 +30,10 @@ header:
 
 **Nickname:** Inspector Gadget or German Captain America
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+![phil](/assets/officers/phil.jpg){: .align-left style="width: 13%;"}
 
 
-###### Mesa Rim coordinator: Jayanth Krishnan
+**Mesa Rim coordinator:** Jayanth Krishnan
 
 **Favorite Mishap:** OH GOD NO NOT THE HORSEFLIES
 
@@ -44,7 +43,10 @@ header:
 
 
 
-##### Deal Hound: Carrie Bishop
+![phil](/assets/officers/phil.jpg){: .align-left style="width: 13%;"}
+
+**Deal Hound:** Carrie Bishop
+
 **Favorite Mishap:** Stuck in the snow with 4 idiots, 3 shovels, and several mango cart 6-packs
 
 **Favorite place:** Not in California, that's for sure
