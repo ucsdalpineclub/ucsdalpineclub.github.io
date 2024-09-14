@@ -47,7 +47,7 @@ header:
 
 **Deal Hound:** Carrie Bishop
 
-**Favorite Mishap:** Stuck in the snow with 4 idiots, 3 shovels, and several mango cart 6-packs
+**Favorite Mishap:** Stuck in the snow with 4 idiots, 3 shovels, and a mango cart 6-pack
 
 **Favorite place:** Not in California, that's for sure
 
