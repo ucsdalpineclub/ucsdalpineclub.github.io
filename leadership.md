@@ -8,8 +8,9 @@ header:
   overlay_image: /assets/officers/faq-splash.JPG
 ---
 
-##### President: Michael Sandler
 ![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
+
+##### President: Michael Sandler
 
 **Favorite Mishap:** Forgetting my... pants? on a spring couloir climb
 
@@ -18,8 +19,9 @@ header:
 **Superpowers:** Poison oak immunity
 
 
-###### Social Media manager: Philipp Arndt
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+
+###### Social Media manager: Philipp Arndt
 
 **Favorite Mishap:** 'I've actually never fucked up'
 
@@ -27,8 +29,10 @@ header:
 
 **Nickname:** Inspector Gadget or German Captain America
 
-###### Mesa Rim coordinator: Jayanth Krishnan
 ![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+
+
+###### Mesa Rim coordinator: Jayanth Krishnan
 
 **Favorite Mishap:** OH GOD NO NOT THE HORSEFLIES
 
