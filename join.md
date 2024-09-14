@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/join-splash.jpeg
+  overlay_image: /assets/join-splash.jpg
 ---
 ### Get in touch
 To get in touch with other club members, please fill out this waiver:
