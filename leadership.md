@@ -9,7 +9,7 @@ header:
 ---
 
 
-![mike](/assets/officers/mike.jpg){: .align-left style="width: 15%;"}
+![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
 
 **President:** Michael Sandler
 
@@ -20,7 +20,7 @@ header:
 **Superpowers:** Poison oak immunity
  
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 15%;"}
+![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
 
 **Social Media manager:** Philipp Arndt
 
