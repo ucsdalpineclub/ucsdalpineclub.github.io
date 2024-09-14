@@ -9,7 +9,7 @@ header:
 ---
 
 
-![mike](/assets/officers/mike.jpg){: .align-left style="width: 20%;"}
+![mike](/assets/officers/mike.jpg){: style="width: 20%;"}
 
 **President:** Michael Sandler
 
@@ -20,7 +20,7 @@ header:
 **Superpowers:** Poison oak immunity
  
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 20%;"}
+![phil](/assets/officers/phil.jpg){: style="width: 20%;"}
 
 **Social Media manager:** Philipp Arndt
 
@@ -30,7 +30,7 @@ header:
 
 **Nickname:** Inspector Gadget or German Captain America
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 15%;"}
+![phil](/assets/officers/phil.jpg){: style="width: 15%;"}
 
 
 **Mesa Rim coordinator:** Jayanth Krishnan
@@ -43,7 +43,7 @@ header:
 
 
 
-![phil](/assets/officers/phil.jpg){: .align-left style="width: 15%;"}
+![phil](/assets/officers/phil.jpg){: style="width: 15%;"}
 
 **Deal Hound:** Carrie Bishop
 
