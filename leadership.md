@@ -42,13 +42,12 @@ header:
 **Superpower:** High levels of stoke
 
 
+![phil](/assets/officers/dani.jpg){: style="width: 15%;"}
 
-![phil](/assets/officers/phil.jpg){: style="width: 15%;"}
+**Treasurer:** Dani Perry
 
-**Deal Hound:** Carrie Bishop
+**Favorite Mishap:** Skiing down Rainier in a whiteout
 
-**Favorite Mishap:** Stuck in the snow with 4 idiots, 3 shovels, and a mango cart 6-pack
+**Favorite place:** Alaska (the entire state)
 
-**Favorite place:** Not in California, that's for sure
-
-**Superpowers:**  Freakishly strong fingers
+**Superpowers:**  Moving speed is unaffected by beers in the backpack
