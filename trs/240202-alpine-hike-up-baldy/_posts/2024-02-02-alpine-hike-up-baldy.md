@@ -36,7 +36,7 @@ We rested a bit at the ski hut. The volunteer running the place was a very sweet
 We made it through to the summit and it was totally worth it! The views of the desert on one side and of LA on the other are separated by the contours of the LA mountain ranges. There were a lot of people who were hiking up with their dogs and we stayed put at the summit for some time talking to them, eating our sandwiches, reading a book and taking photos. We decided to head down along the same route as the one we came up, since the other route through devils backbone was supposed to be gnarly. We made it down it down way faster and we went to the San Antonio falls on our way back. We made it back to our car by 4 pm all tired and hungry and we went off into LA to get some food, after which we drove back home.
 
 
-![baldy4](/trs/240202-alpine-hike-up-baldy/baldy6.jpg){: .align-left style="width: 50%;"}
-![baldy5](/trs/240202-alpine-hike-up-baldy/baldy7.jpg){: .align-left style="width: 50%;"}
+![baldy4](/trs/240202-alpine-hike-up-baldy/baldy6.jpg){: .align-left}
+![baldy5](/trs/240202-alpine-hike-up-baldy/baldy7.jpg){: .align-left}
 
 I would totally recommend that people do this, as their first alpine experience. A goldilocks hike, neither too easy nor too hard. Just be sure to bring enough layers and some kind of traction if you are climbing during winter, as well as enough water and snacks/food as it will be a long hike.
