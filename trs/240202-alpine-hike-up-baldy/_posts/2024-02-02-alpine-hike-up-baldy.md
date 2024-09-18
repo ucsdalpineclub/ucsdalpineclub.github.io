@@ -30,7 +30,7 @@ We set about very early around 4:00 am from our home. I drove up to Baldy trailh
 We rested a bit at the ski hut. The volunteer running the place was a very sweet guy! (He offered us donuts!). We chatted a bit with him and decided to make our way up to the summit. As soon as we started climbing we hit snow and needed those micro spikes for our shoes. The landscape was just so incredible! We took our time going up, making snowballs on the way, shaking down snow from the trees and just soaking in the beauty of the place. The final 1000ft was pretty hard for us, a bit of nausea plus general tiredness started creeping over.
 
 ![baldy4](/trs/240202-alpine-hike-up-baldy/baldy4.jpg){: .align-left style="width: 50%;"}
-![baldy5](/trs/240202-alpine-hike-up-baldy/baldy5.jpg){: .align-left style="width: 50%;"}
+![baldy5](/trs/240202-alpine-hike-up-baldy/baldy5.jpg){: .align-right style="width: 50%;"}
 
 
 We made it through to the summit and it was totally worth it! The views of the desert on one side and of LA on the other are separated by the contours of the LA mountain ranges. There were a lot of people who were hiking up with their dogs and we stayed put at the summit for some time talking to them, eating our sandwiches, reading a book and taking photos. We decided to head down along the same route as the one we came up, since the other route through devils backbone was supposed to be gnarly. We made it down it down way faster and we went to the San Antonio falls on our way back. We made it back to our car by 4 pm all tired and hungry and we went off into LA to get some food, after which we drove back home.
