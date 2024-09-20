@@ -5,10 +5,10 @@ author: Michael Sandler
 date:   2024-01-01 12:19:43 -0700
 classes: wide
 header:
-  teaser: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
+  teaser: /trs/240101-seasonal-adventures-in-idylwilld/header.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
+  overlay_image: /trs/240101-seasonal-adventures-in-idylwilld/header.jpg
 gallery:
   - url: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
     image_path: /trs/240101-seasonal-adventures-in-idylwilld/idy2.jpg
