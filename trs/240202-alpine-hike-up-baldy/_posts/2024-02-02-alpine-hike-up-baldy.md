@@ -5,10 +5,10 @@ author: Sreejith Santhosh
 date:   2024-02-02 12:19:43 -0700
 classes: wide
 header:
-  teaser: /trs/240202-alpine-hike-up-baldy/baldy4.jpg
+  teaser: /trs/240202-alpine-hike-up-baldy/header.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /trs/240202-alpine-hike-up-baldy/baldy4.jpg
+  overlay_image: /trs/240202-alpine-hike-up-baldy/header.jpg
 gallery:
   - url: /trs/240202-alpine-hike-up-baldy/baldy2.jpg
     image_path: /trs/240202-alpine-hike-up-baldy/baldy2.jpg
