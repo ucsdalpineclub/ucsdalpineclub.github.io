@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 title:  "As the Crow Flies: Getting Hosed on Lurking Fear"
 author: Chase Morgan
 date:   2024-04-04 12:19:43 -0700
