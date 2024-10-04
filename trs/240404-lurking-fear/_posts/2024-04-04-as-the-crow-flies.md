@@ -19,7 +19,7 @@ We settled down onto our sleeping pads in the least buggy clearing near the base
 
 Despite the heat, the first pitches went smoothly enough. Pitch one goes free at a (sandbagged) 11b, but for us mere mortals it’s C2 hooking. I gave it to Chad, having climbed it once before (story for another day), but after 20 minutes of deliberation, he couldn’t get himself to stand up on the crux bat hook. I get it. It’s far from confidence inspiring. I took over the lead and made it up to the crux, a half-pad crimp at a 30 degree angle with just enough of an indent in one spot to get a bat hook to stay. I held my breath, unclipped my daisy from the bolt below, and stood up. It held. Two more steps up my aider and I was safely clipped to the next bolt where I could breathe again. The rest of the pitch went by without note. 
 
-
+![gang at higher grounds](/trs/240404-lurking-fear/lurk-1.jpg){: .align-left style="width: 50%;" caption="test caption"}
 Pitch1 before the hooks
 
 Chad took the blank slab bolt ladder pitch 2, which by some miracle was freed by Tommy Caldwell at 5.13c. This pitch must have been bolted by someone the height of Hagrid because almost every bolt requires both top stepping and a cheater stick. Having climbed this one before too, I was happy to hand the lead over. It’s not hard, but damn is it annoying. I told him to skip the first anchor and go to the second anchor, but I also told him he only needed one piece of gear, a red camelot in a pod ⅔ of the way up. Turns out I was wrong, you need a couple more finger size pieces to get to the second anchors. With too little rope in the haul line left to shuttle up the gear, he had to downclimb back to the first anchors. Sorry buddy. 
