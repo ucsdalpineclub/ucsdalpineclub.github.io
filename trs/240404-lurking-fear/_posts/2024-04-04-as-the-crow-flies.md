@@ -15,12 +15,13 @@ header:
 
 It’s amazing how alive the valley is at night in the summer. Thousands upon thousands of little critters emerge from every crack and crevice as soon as the sun goes down. The flow of ants and silverfish is endless, only punctuated by the occasional scorpion, toad, spider, rodent, or ring-tailed cat. Up on the western shoulder of El Capitan, the bustle of the valley is another world. Here the insects outnumber the people at least a million to one. 
 
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-1.jpg" %}
+
 We settled down onto our sleeping pads in the least buggy clearing near the base of our route, too exhausted to mind the silverfish beneath us or the clouds of mosquitoes nipping at our faces. Had it been four or five trips up the approach trail to carry up our ten gallons of water, quadruple rack, aid gear, portaledge, sleeping bags, ropes, and pounds of food? We had lost count. By the time we started fixing the first pitches, we were already exhausted from shuttling loads up the slope in the 90 degree summer heat. 
 
 Despite the heat, the first pitches went smoothly enough. Pitch one goes free at a (sandbagged) 11b, but for us mere mortals it’s C2 hooking. I gave it to Chad, having climbed it once before (story for another day), but after 20 minutes of deliberation, he couldn’t get himself to stand up on the crux bat hook. I get it. It’s far from confidence inspiring. I took over the lead and made it up to the crux, a half-pad crimp at a 30 degree angle with just enough of an indent in one spot to get a bat hook to stay. I held my breath, unclipped my daisy from the bolt below, and stood up. It held. Two more steps up my aider and I was safely clipped to the next bolt where I could breathe again. The rest of the pitch went by without note. 
 
-![gang at higher grounds](/trs/240404-lurking-fear/lurk-1.jpg){: .align-left style="width: 50%;" caption="test caption"}
-Pitch1 before the hooks
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-2.jpg" caption="Pitch 1 before the hooks" %}
 
 Chad took the blank slab bolt ladder pitch 2, which by some miracle was freed by Tommy Caldwell at 5.13c. This pitch must have been bolted by someone the height of Hagrid because almost every bolt requires both top stepping and a cheater stick. Having climbed this one before too, I was happy to hand the lead over. It’s not hard, but damn is it annoying. I told him to skip the first anchor and go to the second anchor, but I also told him he only needed one piece of gear, a red camelot in a pod ⅔ of the way up. Turns out I was wrong, you need a couple more finger size pieces to get to the second anchors. With too little rope in the haul line left to shuttle up the gear, he had to downclimb back to the first anchors. Sorry buddy. 
 
@@ -30,22 +31,31 @@ The real punishment came at the end of the pitch though. After cutting right fro
 
 We fixed our ropes to the anchors and with two 60 meter single line rappels, we were back on the ground. At this point, we have been baking in the sun for hours with little water after multiple trips up the slope on the western side of el cap. We were not so much exhausted as we are delirious. We set up “camp” as the last trickles of sunlight slip away. 
 
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-3.jpg" %}
+
 Chad and I started climbing together in Washington DC. Well sort of together, we ran in the same circle, but never really roped up together. Once I gave him a belay up Montezuma’s Tower in the middle of a thunderstorm, but that was about it for our climbing partnership until he flew out to California to climb the Prow with me. It’s hard to find good big wall partners. Not only do they need to be competent enough to handle the fuckery that comes with big wall climbing, but also they need to be a decent enough person and easy enough to get along with that you can handle multiple days of hanging in a harness in deeply uncomfortable positions with them. Chad is that kind of climbing partner, the kind of person that you can have Blink-182 sing a longs with when things get extra fucked up. 
 
 The morning came and we picked silverfish and ants out of our beards, while chugging down cans of shitty iced coffee. We left our food and our real coffee sealed inside a canvas bag at the top of pitch three to keep it from the bears. Two 60 meter jugs and hauls and we were back at our high point. Quick but tiring when you haven’t ascended a fixed line in a couple years. 
 
+
+
 Back to our bag on the pitch three belay ledge, we noticed something was off. Our canvas food bag was unzipped and much of its contents were strewn around on the ledge. Fucking crows. We had noticed them hanging around the bag as we jugged up, but paid them little mind. The bag was thick enough to be peck resistant and the zipper was nice and hefty. Our bag was little match for the crows though who seemed to have no issue fully unzipping the bag. A quick inventory suggested that they only made it off with a few bars, a couple poptarts, and a bag of trail mix. We would later realize this was a grave miscalculation. 
 
-
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-4.jpg" %}
 Pitch 4 past the hooking section
 
 Pitch 4 was my lead. It starts on a beautiful face full of small edges taking you up to a series of C1 and C2 cracks. The first part is only supposed to go at 5.10, but it’s thin, requiring delicate edging. I opted for the hooking route, not wanting to slab climb with a haul line and aid rack hanging off me. One hook move was quite memorable. After standing up tall on the second from the top step, the next hook placement was still a ways out of reach. I down stepped one and bumped my left foot into the top step. The placement was still out of reach. I placed my other foot on the rock next to the hook and stood up tall when my daisy chain tugged the hook up and off the rock. All of a sudden, I was balancing on a single foot hold edging with my loosely tied approach shoe with nothing else keeping me on the wall. With the tips of my fingers, I got the next hook placed blindly and weighted it, holding my breath, my last piece of protection well below my feet. It held. I let out of a sigh of relief and kept climbing. 
 
 The biggest challenge of big wall climbing isn’t climbing. It isn’t pooping in a bag either. Hell it isn’t even hauling. It’s managing the damn belays. The ideal big wall anchor is three (or more) bolts, well spaced, with one higher than the other two. That way you can set up a couple slings or quads between the bolts with multiple attachment points for your two ropes, your haul point, your haul bag, your 700 cams, whatever else you dragged up with you, and your two climbers. Being able to spread out across three, four, or five master points lets you keep everything organized at your generally terrible hanging belay. 
 
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-5.jpg" %}
+
+
 For some reason, the belays on Lurking Fear are only two bolts (fine, bolts are expensive and a pain to place) and are spaced not 6 inches from each other (why? God, why?). I am known for many things, but keeping a tidy and organized belay is not one of them. I can manage well enough and have improved over the years, but I am far from an expert, and these belays took me completely off guard. It was a comedy of dunces, a game of whack a mole. Every time I managed to un-fuck one part of the belay, another part would be a mess. Haul line wrapped around the haul bag? Lower down and un-fuck. Wait, now the lead line is somehow running through the straps of portaledge? Go in direct, untie, untangle, retie in. Wait now the haul line is tangled in the lead line. What the fuck am I doing? Can we just climb? 
 
 By the time I made it to the pitch 6 belay (two pitches shy of our modest goal of fixing pitch 8 and bivying on top of 7), the sun was already setting. Dehydrated, sore, and nearly delirious, I rejoiced. The anchor was three bolts. Three bolts! We could hang our ledge, our haul bag, and our gear with relative ease. It was a sign from the gods. We were meant to sleep here. I fixed the line for Chad and started the work of hauling our shit up. Chad got to the belay around the same time the bag did and we went about setting up camp. Finally we could relax, drink some much needed water, and dig into our dinners. 
+
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-6.jpg" %}
 
 One problem though. Half of our dinner food was not in the haul bag. You see we planned one pack of pre-cooked rice and a couple of handfuls of dried beef sticks every night for dinner. We brought two pounds of dried beef for 4 days on the wall. That meant ¼ pound of beef each every night or 440 calories, 1.5 grams of sodium, and 48 grams of protein, everything we needed to recover enough to climb the next day. When the crow incident happened earlier that day, we didn’t even think to check if the 2 pound bag of beef sticks was still in the bag. Not only was it directly at the bottom, since we knew it would be dinner food, but it’s 2 pounds. How does a crow fly off with 2 pounds of food? Well google tells me crows have been seen carrying up to 2.4 pounds short distances, so I guess it managed to at least toss it off the ledge. So not only did the crows steal half our breakfasts and a chunk of our snacks, they stole the staple food of all our dinners. That and we were behind schedule. 
 
@@ -63,7 +73,6 @@ So now, not only were we down half our food, but we were looking at two full day
 
 They did in less than two hours what took us the better part of two days to complete, granted they weren’t hauling. 
 
-Pitch 7 airy traverse 
 
 Our new friends lingered at our hanging camp just long enough to exchange some gear and share some beta for the pitches we had ahead of us. We were too ashamed to admit that we were already talking about bailing and the weather hadn’t even turned yet. 
 
@@ -73,7 +82,7 @@ We were up at dawn the following day. It's hard to get a good night’s sleep on
 
 The best part of big wall climbing though is drinking coffee on a portaledge, half your body still inside your sleeping bag, feet hanging over the edge, watching first light hit the sheer cliff faces across the valley. Down below the road is so far away. The tourists are just starting to trickle in at dawn, but their presence is as insignificant as a dust mite crawling beneath your feet. The whistle of the wind overpowers any sounds you might hear from the ground beneath you. Up on the wall, 1000 feet above the valley floor, no one is around but you. It’s such a simple and beautiful feeling to be small, a speck on the walls of ancient stone. 
 
-
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-6.jpg" %}
 Ledge camp
 
 
@@ -111,4 +120,5 @@ Getting to the ground without summitting was bittersweet. We were happy to be sa
 
 The next morning the rain started at 9am, 5 hours earlier than expected. It started nasty and continued on that way for two days. While we drove out of the valley, we knew that despite our misgivings, we made the right call. The big stone isn’t going anywhere and there are always more rocks to climb. 
 
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-9.jpg" %}
 
