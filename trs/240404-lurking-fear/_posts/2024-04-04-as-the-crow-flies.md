@@ -82,7 +82,7 @@ We were up at dawn the following day. It's hard to get a good night’s sleep on
 
 The best part of big wall climbing though is drinking coffee on a portaledge, half your body still inside your sleeping bag, feet hanging over the edge, watching first light hit the sheer cliff faces across the valley. Down below the road is so far away. The tourists are just starting to trickle in at dawn, but their presence is as insignificant as a dust mite crawling beneath your feet. The whistle of the wind overpowers any sounds you might hear from the ground beneath you. Up on the wall, 1000 feet above the valley floor, no one is around but you. It’s such a simple and beautiful feeling to be small, a speck on the walls of ancient stone. 
 
-{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-6.jpg" %}
+{% include figure popup=true image_path="/trs/240404-lurking-fear/lurk-7.jpg" %}
 Ledge camp
 
 
