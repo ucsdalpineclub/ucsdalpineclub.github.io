@@ -23,12 +23,12 @@ Shreyas had a bit of a rough time this trip.
 We begin our journey at the ass-crack of dawn (like 5:30am) with everyone crammed into Chesson’s car before beginning the 5 1/2hr drive to Whitney portal. It should be noted that Shreyas, after barely sleeping the night prior, spent 90+% of the drive out cold.
 
 Shreyas awakening from his slumber upon arrival:
-![im1](/trs/20240910-russel-earete/image1.jpg)
+![im1](/trs/20240910-russel-earete/image1.jpg){: style="width: 50%;"}
 
 After parking, our planned campground at Upper Boy Scout Lake was only 2.9 mi away. Buuuuut it also was 3,000’ above us (around 8,500’ at the portal to 11,500’ at Upper Boy Scout). On top of that, those 3mi were not all well-paved switchbacks; much of the time, our intrepid heroes were struggling up boulders, doing weighted pistol squats to climb a few feet at a time (ok not really but you get the idea). This meant that our sad lungs boys were struggling. Honestly, Chesson was challenged more than he’d like others to realize. Payton was basically a mountain goat (in more ways than one).
 
 Admiring views while waiting for Shreyas:  
-![im2](/trs/20240910-russel-earete/image6.jpg)
+![im2](/trs/20240910-russel-earete/image6.jpg){: style="width: 50%;"}
 
 
 Beautiful view of some peaks during the approach to Upper Boy Scout (Mt Russell might be in here…):  
@@ -40,7 +40,7 @@ Critical snack break (yes, summer sausage is the greatest hiking food of all tim
 Eventually, the boys did make it to the lake. Thanks to Payton’s abundant supply of backup summit packs, a huge weight would be lifted off everyone’s backs during the summit of Russell the next morning.
 
 Alpine glow (feat. Upper Boy Scout Lake)\!  
-![im2](/trs/20240910-russel-earete/image2.jpg)
+![im2](/trs/20240910-russel-earete/image2.jpg){: style="width: 50%;"}
 
 At sunrise, everyone left camp and began the last push to the peak. As expected, Payton led, taking them through a mild scramble up to an alleyway where things got kicked up a notch. Lots of scree, much steeper, and with a big class 3 (or 4?) move near the end. Everyone spread out a bit to minimize the risk of falling rocks catching someone further down the alley off-guard (Payton \-\> Chesson \-\> Jay \-\> Shreyas).
 
@@ -55,20 +55,20 @@ Miraculously, the rock didn’t seriously hurt Shreyas. In fact, it didn’t eve
 After climbing up through the alley, they made a break for the ridgeline. There, everyone paused to admire Lake Tulainyo (at 12,829’, it’s one of the highest permanent alpine lakes in the US\!) before starting the last bit of climbing.
 
 Above Lake Tulainyo:  
-![im4](/trs/20240910-russel-earete/image4.jpg)
+![im4](/trs/20240910-russel-earete/image4.jpg){: style="width: 50%;"}
 
 The last bit was challenging for everyone but Payton. Now at above 13,000’, Jay and Shreyas were really feeling the altitude. Chesson and Shreyas almost peed their pants many times when confronted with class 3 moves in which failure was not an option (unless you wanted to quickly reduce your altitude by 1000’). But these fine gentlemen did eventually make it to the summit.
 
 They spent a nice half hour at the top admiring the view and eating their lunches. Payton saw a nearby summit in the distance, bounded over to it, and was back in 7 minutes flat (Chesson timed it).
 
 Gromit at the summit of Russell, with Whitney in the background:  
-![im5](/trs/20240910-russel-earete/image5.jpg)
+![im5](/trs/20240910-russel-earete/image5.jpg){: style="width: 50%;"}
 
 The descent, while still fraught with dangerous ridgeline exposure for the “hikers”, flew by pretty quickly. The boys took an alternate route down, opting for scree switchbacks in lieu of the steep alleyway.
 
 
 Before heading back to the car from Upper Boy Scout, a polar plunge was obviously required:  
-![im7](/trs/20240910-russel-earete/image7.jpg)
+![im7](/trs/20240910-russel-earete/image7.jpg){: style="width: 50%;"}
 
 It must be noted here that Shreyas wagged at the campsite but did not find said wag before departing. A thorough search did nothing but delay the gang’s departure by 10-15 minutes. We can only hope that a friendly climber picked it up while our team was summiting.
 
