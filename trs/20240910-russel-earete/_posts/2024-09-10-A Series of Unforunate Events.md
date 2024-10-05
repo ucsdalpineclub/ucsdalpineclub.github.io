@@ -23,12 +23,12 @@ Shreyas had a bit of a rough time this trip.
 We begin our journey at the ass-crack of dawn (like 5:30am) with everyone crammed into Chesson’s car before beginning the 5 1/2hr drive to Whitney portal. It should be noted that Shreyas, after barely sleeping the night prior, spent 90+% of the drive out cold.
 
 Shreyas awakening from his slumber upon arrival:
-![/trs/20240910-russel-earete/image1.jpg]()
+![/trs/20240910-russel-earete/image1.jpg](image1)
 
 After parking, our planned campground at Upper Boy Scout Lake was only 2.9 mi away. Buuuuut it also was 3,000’ above us (around 8,500’ at the portal to 11,500’ at Upper Boy Scout). On top of that, those 3mi were not all well-paved switchbacks; much of the time, our intrepid heroes were struggling up boulders, doing weighted pistol squats to climb a few feet at a time (ok not really but you get the idea). This meant that our sad lungs boys were struggling. Honestly, Chesson was challenged more than he’d like others to realize. Payton was basically a mountain goat (in more ways than one).
 
 Admiring views while waiting for Shreyas:  
-![/trs/20240910-russel-earete/image6.jpg]()
+![/trs/20240910-russel-earete/image6.jpg](image2)
 
 
 Beautiful view of some peaks during the approach to Upper Boy Scout (Mt Russell might be in here…):  
