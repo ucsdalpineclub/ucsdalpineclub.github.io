@@ -29,14 +29,14 @@ We arrived in the valley around 7PM on Monday, aiming to climb the 16-pitch 5.10
         <td class="c16" colspan="1" rowspan="1">
             <p class="c9"><span class="c1">Who needs to plan a trip when you can swipe?</span><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 215.26px; height: 285.39px;"><img
-                        alt="" src="images/image5.jpg"
+                        alt="" src="/trs/241005-tuednesday/image5.jpg"
                         style="width: 215.26px; height: 285.39px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
         </td>
         <td class="c19" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 231.31px; height: 306.39px;"><img
-                        alt="" src="images/image4.png"
+                        alt="" src="/trs/241005-tuednesday/image4.png"
                         style="width: 231.31px; height: 306.39px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c9"><span class="c1">We&rsquo;re doin GREAT on the approach</span></p>
@@ -52,7 +52,7 @@ By the third pitch, we started noticing that we were kind of behind schedule. A 
         <td class="c11" colspan="1" rowspan="1">
             <p class="c3"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 305.75px; height: 407.50px;"><img
-                        alt="" src="images/image8.png"
+                        alt="" src="/trs/241005-tuednesday/image8.png"
                         style="width: 305.75px; height: 407.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c3"><span class="c1">Us before realizing the PAIN we&rsquo;re about to experience.</span></p>
@@ -60,7 +60,7 @@ By the third pitch, we started noticing that we were kind of behind schedule. A 
         <td class="c11" colspan="1" rowspan="1">
             <p class="c3"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 302.79px; height: 394.73px;"><img
-                        alt="" src="images/image11.png"
+                        alt="" src="/trs/241005-tuednesday/image11.png"
                         style="width: 371.44px; height: 493.67px; margin-left: -68.65px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c3 c13"><span class="c1"></span></p>
@@ -77,21 +77,21 @@ After letting the other party pass us (big mistake, easily added two hours to ou
             <td class="c15" colspan="1" rowspan="1">
                 <p class="c9"><span
                         style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 194.00px; height: 257.33px;"><img
-                            alt="" src="images/image7.png"
+                            alt="" src="/trs/241005-tuednesday/image7.png"
                             style="width: 194.00px; height: 257.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                             title=""></span></p>
             </td>
             <td class="c15" colspan="1" rowspan="1">
                 <p class="c9"><span
                         style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 194.00px; height: 257.33px;"><img
-                            alt="" src="images/image10.png"
+                            alt="" src="/trs/241005-tuednesday/image10.png"
                             style="width: 194.00px; height: 257.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                             title=""></span></p>
             </td>
             <td class="c15" colspan="1" rowspan="1">
                 <p class="c9"><span
                         style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 194.00px; height: 257.33px;"><img
-                            alt="" src="images/image13.png"
+                            alt="" src="/trs/241005-tuednesday/image13.png"
                             style="width: 194.00px; height: 257.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                             title=""></span></p>
             </td>
@@ -145,7 +145,7 @@ Having successfully gotten our backpack through the narrows, Phil seemed complet
         <td class="c23" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 268.90px; height: 357.50px;"><img
-                        alt="" src="images/image9.png"
+                        alt="" src="/trs/241005-tuednesday/image9.png"
                         style="width: 268.90px; height: 357.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c9"><span class="c1">Phil is having lots of fun</span></p>
@@ -162,14 +162,14 @@ We awoke at sunrise feeling shockingly refreshed. Our party-of-three compatriots
         <td class="c17" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 347.95px; height: 261.55px;"><img
-                        alt="" src="images/image6.png"
+                        alt="" src="/trs/241005-tuednesday/image6.png"
                         style="width: 347.95px; height: 261.55px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
         </td>
         <td class="c22" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 199.50px; height: 265.11px;"><img
-                        alt="" src="images/image12.png"
+                        alt="" src="/trs/241005-tuednesday/image12.png"
                         style="width: 199.50px; height: 265.11px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
         </td>
@@ -191,7 +191,7 @@ In the following hours, we probably chugged two liters of various fluids, ate ma
         <td class="c20" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 591.50px; height: 533.57px;"><img
-                        alt="" src="images/image3.png"
+                        alt="" src="/trs/241005-tuednesday/image3.png"
                         style="width: 591.50px; height: 783.59px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c9"><span class="c1">The gang</span></p>
@@ -204,7 +204,7 @@ In the following hours, we probably chugged two liters of various fluids, ate ma
         <td class="c12" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 244.50px; height: 325.37px;"><img
-                        alt="" src="images/image2.png"
+                        alt="" src="/trs/241005-tuednesday/image2.png"
                         style="width: 244.50px; height: 325.37px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
             <p class="c9 c13"><span class="c1"></span></p>
@@ -213,7 +213,7 @@ In the following hours, we probably chugged two liters of various fluids, ate ma
         <td class="c12" colspan="1" rowspan="1">
             <p class="c9"><span
                     style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 245.00px; height: 325.33px;"><img
-                        alt="" src="images/image1.png"
+                        alt="" src="/trs/241005-tuednesday/image1.png"
                         style="width: 245.00px; height: 325.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                         title=""></span></p>
         </td>
