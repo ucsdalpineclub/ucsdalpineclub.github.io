@@ -14,11 +14,13 @@ header:
 
 Typically, when you want to do some athletic thing that’s beyond your current means, you want to adhere to a few broad but useful principles:
 
-* Recover well: Get lots of sleep and keep overall stress levels low  
-* Train well: Be consistent, and make it goal-specific  
-* Plan well: Deliberate and thoughtful planning goes a long way to ensure success.
+* Plan: Deliberate and thoughtful planning, of both the trip and your training, goes a long way to ensure success.
+* Train: Be consistent, and make it goal-specific  
+* Recover: Get lots of sleep and keep overall stress levels low  
 
-Now, knowing all this, it’s a damn shame Phil and I did absolutely **none** of these things to prepare for Steck-Salathe. This is the story of how we proudly achieved the blazing time of 27 hours car-to-car on a 16-pitch route.
+Now, knowing all this, it’s a damn shame Phil and I did absolutely **none** of these things to prepare for Steck-Salathe. 
+To be clear, the reason for this error was the fact that we simply underestimated the route. It's a common story -- and we hope others may learn from our mistakes. 
+This is the story of how we proudly achieved the blazing time of 27 hours car-to-car on a 16-pitch route.
 
 ---
 
