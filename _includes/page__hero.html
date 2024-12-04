@@ -34,7 +34,6 @@
       {% if page.author %}
         <p class="page__lead">{{ page.author | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
-      <p class="page__lead">{{ page.date | date: "%B %d, %Y" | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
