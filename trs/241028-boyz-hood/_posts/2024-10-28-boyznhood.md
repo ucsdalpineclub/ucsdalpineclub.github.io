@@ -60,14 +60,11 @@ The first 7 of the final 10 miles of our second day went by well. As it had begu
 <figure>
   <img src="/trs/241028-boyz-hood/image4.jpg" style="width:50%">
   <img src="/trs/241028-boyz-hood/image5.jpg" style="width:50%">
-  <figcaption>Figure 6. Chesson and Shreyas pose in one of the many run-off low points that dot our trek.</figcaption>
+  <figcaption>Figure 6. Chesson and Shreyas pose in one of the many run-off low points that dot our trek. \n
+              Figure 7. Shreyas enjoys a slice of lush PNW heaven, day 2, during the brief sunny period immediately before lunch.
+  </figcaption>
 </figure> 
 
-<figure>
- 
-  <figcaption>Figure 7. Shreyas enjoys a slice of lush PNW heaven, day 2, during the brief sunny period immediately before lunch. </figcaption>
-</figure> 
- 
 
 The last 3 miles were hard. By 5:30pm in the snowstorm it was dark, by 6:15 it was black, and the snow was now 3+ inches deep. Temperatures were relatively warm, perhaps insulated by cloud cover, but we were all wet and generally tired at this point. Throw in the increasingly heavy snowfall, and the 2000’ of gain in this last stretch of mileage, and you have our slowest pace of the trip: a little less than 2 mph. We were all very ready to be done, and discussions of the food we would eat after completion had now gone on for over an hour. Finally, at around 8:00pm, one could observe a soft orange glow on the other side of the trees in an apparent opening. Ten minutes later the ski lodge was in sight, and in another ten the trip was complete. Celebration ensued in the form of gyros and a long shnooze in a fancy hotel bed.
 
