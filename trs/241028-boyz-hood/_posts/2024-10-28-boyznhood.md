@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Boyz in the (trail around Mt) Hood"
-author: Chesson Sipling
+author: Ben Schauer
 date:   2024-10-28 12:19:43 -0700
 classes: wide
 header:
