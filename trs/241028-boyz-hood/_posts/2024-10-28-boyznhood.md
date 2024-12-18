@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Boyz in the ()"
+title:  "Boyz in the (trail around Mt) Hood"
 author: Chesson Sipling
-date:   2024-09-10 12:19:43 -0700
+date:   2024-10-28 12:19:43 -0700
 classes: wide
 header:
   teaser: /trs/241028-boyz-hood/header.jpg
