@@ -20,19 +20,19 @@ What I do remember is that by the time we reached REI (20 minutes later) we had 
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image8.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image3.jpg" style="width:50%">
   <figcaption>Figure 1. Great view of the mountaineers’ playground. Glacier on NNE side, day 1, about 18-19 miles in. (If only we were real mountaineers and had the gear for a summit\! Alas, we will have to return.)</figcaption>
 </figure> 
 
 Saturday morning began very well if a bit late. By lunch on the first day we had covered 13 miles and, although it was beginning to rain, felt quite up to the task. We stopped at the day's high point, having climbed from \~6000’ to \~9000’, where one could literally lean 20 degrees into the wind coming down a valley adjacent to the mountain (figure 1, including Chesson in his underwear because he didn’t bring the right pants). The views were spectacular across the entire western side of Mt. Hood. In fact, most of the day was gorgeous and relatively uneventful. Some of our latter mileage was passed in good spirits by belting the entirety of “99 Bottle of Beer on the Wall”. Other events of the day include accidently ditching Shreyas when he experienced quad cramps (sorry buddy). By the end of the day we had managed to cover 20 miles and 5600’ of gain, not bad with pack weight (I packed relatively heavy). We began around 9am and finished around 6pm, with a 30 minute lunch break.. The next day we planned on finishing her off (we had no choice…), which would mean a similar elevation change, but 4 more miles. Shreyas and I had quite tired feet at that point, and I think even Chesson had his fill of mileage for the day. It was enjoyable but hard, certainly. Or at least we thought it was hard. We were about to learn more about what “hard” really meant.   
 <figure>
-  <img src="/trs/241028-boyz-hood/image1.jpg" style="width:100%">
+  <img src="/trs/241028-boyz-hood/image5.jpg" style="width:100%">
   <figcaption>Figure 2. Views and wind, facing southwest from Mt. Hood. </figcaption>
 </figure> 
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image7.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image1.jpg" style="width:50%">
   <figcaption>Figure 3. A rainbow greets us as we descend from the high point of day one. Mile 12, right before lunch. </figcaption>
 </figure> 
 
@@ -43,8 +43,8 @@ Day two began much like day one had ended. It was cold, sprinkling, and our feet
 Unfortunately, Shreyas was in a bit poorer of a state. Although always a glass-half-full hiker, he had developed a limp by mile 30. Having damaged his ankle in years past, it appeared his ligaments were not fond of the unending plod. We had reached the point in a trek where one is wet and calorie-deprived enough that stopping longer than 10 minutes becomes cold, quickly. In this way, neither continuing or breaking is very satisfying. Lunch was a beautiful (but again, chilly) respite. See the waterfall in figure 2\. 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image2.jpg" style="width:100%">
-  <figcaption>Figure 4\. Popular waterfall destination on the WNW side of Mt. Hood. A few minutes of beautiful sunlight graced our stop here.</figcaption>
+  <img src="/trs/241028-boyz-hood/image7.jpg" style="width:100%">
+  <figcaption>Figure 4. Popular waterfall destination on the WNW side of Mt. Hood. A few minutes of beautiful sunlight graced our stop here.</figcaption>
 </figure> 
  
 
@@ -52,15 +52,15 @@ The first 7 of the final 10 miles of our second day went by well. As it had begu
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image3.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image2.jpg" style="width:50%">
   <figcaption>Figure 5. Snow accumulation around 4 or 5 pm, perhaps an inch and a half deep.</figcaption>
 </figure> 
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image4.jpg" style="width:50%">
-  <img src="/trs/241028-boyz-hood/image5.jpg" style="width:50%">
-  <figcaption>Figure 6. Chesson and Shreyas pose in one of the many run-off low points that dot our trek. \n
+  <img src="/trs/241028-boyz-hood/image8.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image9.jpg" style="width:50%">
+  <figcaption>Figure 6. Chesson and Shreyas pose in one of the many run-off low points that dot our trek.
               Figure 7. Shreyas enjoys a slice of lush PNW heaven, day 2, during the brief sunny period immediately before lunch.
   </figcaption>
 </figure> 
@@ -70,13 +70,13 @@ The last 3 miles were hard. By 5:30pm in the snowstorm it was dark, by 6:15 it w
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image6.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image4.jpg" style="width:50%">
   <figcaption>Figure 8. The boys remark that Yocum ridge was hard and had too much wood (there were probably about 100 downed trees). </figcaption>
 </figure> 
 
 
 
 <figure>
-  <img src="/trs/241028-boyz-hood/image9.jpg" style="width:50%">
+  <img src="/trs/241028-boyz-hood/image6.jpg" style="width:50%">
   <figcaption>Figure 9. Enjoying Portland’s fall colors Monday morning before a quick departure back to our working lives. </figcaption>
 </figure> 
