@@ -9,15 +9,14 @@ header:
 ---
 
 
-![mike](/assets/officers/mike.jpg){: style="width: 20%;"}
 
-**President:** Michael Sandler
+**Interim President:** Payton Thomas 
 
-**Favorite Mishap:** Forgetting my... pants? on a spring couloir climb
+**Favorite Mishap:** Following some guy's beta on mountainproject and turning a chill outing into something much more formidable
 
-**Favorite place:** Some dusty pullout off the 395
+**Favorite place:** SLC!
 
-**Superpowers:** Poison oak immunity
+**Superpowers:** Uncanny ability to follow directions
  
 
 ![phil](/assets/officers/phil.jpg){: style="width: 20%;"}
