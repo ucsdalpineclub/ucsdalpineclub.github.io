@@ -10,17 +10,22 @@ header:
 This is (hopefully) going to be one of the best things about the club — free gear rentals!
 Currently, the club owns:
 
-* Helmet
+* Helmet (x3)
 
-* Grivel G1 crampons (will fit hiking boots)
+* Grivel G1 crampons (will fit hiking boots) (x1)
 
-Additionally, club members have some spare gear. Mike and Phil in particular might be worth asking. 
+* Harness (x1)
 
-We were formed in September 2022, and thus do not have a ton of funds. To start out with, we will be using your club dues to purchase the following items. These are things that, to our knowledge, are effectively impossible to get without buying or borrowing in SoCal.
+* Ice Axes (x2)
 
-We intend to purchase:
+* The new Deerhorn Guidebook
+
+Additionally, club members have some spare gear, including a spare beacon and ice axes -- ask in the chat if you would like these.
+
+Next on our shopping list:
+* 1 more pair of universal crampons
+* 1 more harness
 * A single trad rack
 * 12x Quickdraws
-* 2 Sets of: Crampons, Ice Axes, Helmet
 * The new guidebooks for the Southern and Northern Sierra (by Roger Putnam and Vitaliy Musiyenko)
 
