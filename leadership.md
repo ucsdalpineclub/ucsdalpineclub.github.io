@@ -27,7 +27,7 @@ header:
             </tr>
             <tr>
                 <td>
-                   <figure class="image"><img class="p-r_member_profile__avatar__img" style="aspect-ratio:512/512;" src="https://photos.fife.usercontent.google.com/pw/AP1GczODungeiK4QKIP4EVHMfpu723XMeYCuFSinPOC7DAmYdSwH68RPi-kWlA=w721-h962-s-no?authuser=0" alt="Profile photo for Xiangyu Guo" width="512" height="512"></figure>
+                   <figure class="image image_resized" style="width:100%;"><img style="aspect-ratio:512/512;" src="https://ucsdalpineclub.github.io/assets/officers/alex.jpg" alt="phil" width="512" height="512"></figure>
                 </td>
                 <td>
                     <p><strong>Social Media manager:</strong> Xiangyu (Alex) Guo</p>
