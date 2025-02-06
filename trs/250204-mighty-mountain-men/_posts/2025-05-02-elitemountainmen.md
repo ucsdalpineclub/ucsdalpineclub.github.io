@@ -2,7 +2,7 @@
 layout: single
 title:  "'Elite' Mountain Men"
 author: Chesson Sipling
-date: 2025-05-02 12:19:43 -0700
+date: 2025-02-05 12:19:43 -0700
 classes: wide
 header:
   teaser: /trs/250204-mighty-mountain-men/header.jpg
