@@ -26,12 +26,14 @@ header:
                 </td>
             </tr>
             <tr>
-                <td>&nbsp;</td>
+                <td>
+                   <figure class="image"><img class="p-r_member_profile__avatar__img" style="aspect-ratio:512/512;" src="https://photos.fife.usercontent.google.com/pw/AP1GczODungeiK4QKIP4EVHMfpu723XMeYCuFSinPOC7DAmYdSwH68RPi-kWlA=w721-h962-s-no?authuser=0" alt="Profile photo for Xiangyu Guo" width="512" height="512"></figure>
+                </td>
                 <td>
                     <p><strong>Social Media manager:</strong> Xiangyu (Alex) Guo</p>
-                    <p><strong>Favorite Mishap:</strong> ‘I’ve actually never fucked up’</p>
-                    <p><strong>Favorite place:</strong> Joshua Tree</p>
-                    <p><strong>Nickname:</strong> Inspector Gadget, German Captain America</p>
+                    <p><strong>Favorite Mishap:</strong>Forgetting the damn sunblock in the Rockies!</p>
+                    <p><strong>Favorite place:</strong>The Himalayas!</p>
+                    <p><strong>Nickname:</strong>Fearless Socializer</p>
                 </td>
             </tr>
             <tr>
