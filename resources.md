@@ -7,6 +7,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/resources-splash.jpeg
 ---
+## Cool stuff members have made
+Andrew Barabas' Eastern Sierra Tour Map (honorary member) available upon request
+
+Philipp's Woodson Map: [Phil's Messy Woodson Map](https://www.google.com/maps/d/u/0/edit?mid=1XhAJwMQ7dB3ITxPJQumZfRp7OZjuz1E&usp=sharing)
+
 ## Good online resources:
 [Mountainproject](https://www.mountainproject.com): Great resource for climbing routes
 
