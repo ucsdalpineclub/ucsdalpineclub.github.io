@@ -48,23 +48,12 @@ header:
                 </td>
             </tr>
             <tr>
-                <td>
-                    <figure class="image image_resized" style="width:100%;"><img style="aspect-ratio:512/512;" src="https://ucsdalpineclub.github.io/assets/officers/dani.jpg" alt="phil" width="512" height="512"></figure>
-                </td>
-                <td>
-                    <p><strong>Treasurer:</strong> Dani Perry</p>
-                    <p><strong>Favorite Mishap:</strong> Skiing down Rainier in a whiteout</p>
-                    <p><strong>Favorite place:</strong> Alaska (the entire state)</p>
-                    <p><strong>Superpowers:</strong> Moving unaffected by beers in the backpack</p>
-                </td>
-            </tr>
-            <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td><strong>Leadership Emeritus:</strong></td>
-                <td>Michael Sandler (currently horizontal), Davide Provasoli (Co-president), Philipp Arndt (Social Media Manager), Carrie Bishop (deal hound)</td>
+                <td>Michael Sandler (currently horizontal), Davide Provasoli (Co-president), Philipp Arndt (Social Media Manager), Carrie Bishop (deal hound), Dani Perry (Treasurer)</td>
             </tr>
         </tbody>
     </table>
