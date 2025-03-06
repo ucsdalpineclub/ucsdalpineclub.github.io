@@ -2,7 +2,7 @@
 layout: single
 title:  "Horizontal Gear Review: Choosing a Backpacking Tent"
 author: Horizontal Mike
-date: 2025-03-05 12:19:43 -0700
+date: 2025-03-04 12:19:43 -0700
 classes: wide
 header:
   teaser: /trs/250305-tent-review/header.jpg
