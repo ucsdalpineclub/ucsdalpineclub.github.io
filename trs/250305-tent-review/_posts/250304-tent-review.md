@@ -46,7 +46,7 @@ Before we talk about specific models, we should consider the available sleep she
 * **None**: For short trips, our weather is absolutely stable enough for cowboy camping\! If you do this, make sure you have a backup plan in case of an [unforecasted squall](https://photos.app.goo.gl/jexTMkdxdLfWzHix8). The plan can be a local [mineshaft](https://www.summitpost.org/basin-mountain/152557), a bivvy sack, you get the idea. BTW, protip: If you sleep under tree cover, you won’t lose as much heat to radiative cooling, either. You really can feel the difference\!
 
 <figure>
-    <img src="/trs/250305-tent-review/mineshaft.png" style="width:50%">
+    <img src="/trs/250305-tent-review/mineshaft.jpg" style="width:50%">
     <figcaption>Mineshaft for bivvying!</figcaption>
 </figure> 
 
