@@ -47,12 +47,12 @@ Having laid out the problem before us, let’s take a look at the available solu
 Before we talk about specific models, we should consider the available sleep shelter types. I’ve ordered these from least-tent to most-tent.
 
 * **None**: For short trips, our weather is absolutely stable enough for cowboy camping\! If you do this, make sure you have a backup plan in case of an [unforecasted squall](https://photos.app.goo.gl/jexTMkdxdLfWzHix8). The plan can be a local [mineshaft](https://www.summitpost.org/basin-mountain/152557), a bivvy sack, you get the idea. BTW, protip: If you sleep under tree cover, you won’t lose as much heat to radiative cooling, either. You really can feel the difference\!
-
+<center>
 <figure>
     <img src="/trs/250305-tent-review/mineshaft.jpg" style="width:50%">
     <figcaption>Mineshaft for bivvying!</figcaption>
 </figure> 
-
+</center>
 * **Bivvy sack:** An alright backup if you’re cowboy camping. Also appropriate for multi-day ridge adventures (inspo: Vitaliy’s [set-up](https://www.mountainproject.com/forum/topic/120957131/ultralight-backpacking-39lb-base-and-ridge-traversing-kit) for his [Goliath traverse](https://www.climbing.com/news/first-ascent-sierra-nevada-goliath-traverse/)). Personally I have only had the pleasure of using one of the cheap space-blankets once [before](https://ucsdalpineclub.github.io/the-invention-of-tuednesday/). The \+: it’s light and will protect you from wind and some rain, depending on the sack. The \-: a lack of… well, everything. Condensation can be a *bitch.*
 
 <figure>
