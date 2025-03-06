@@ -68,7 +68,7 @@ Before we talk about specific models, we should consider the available sleep she
 png
 <figure>
     <img src="/trs/250305-tent-review/hammock.jpeg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <figcaption>Great for relaxing, not so much for camping above treeline</figcaption>
 </figure> 
 
 * **Mids:** A popular choice for a mess or [even for sleep](https://www.youtube.com/watch?v=uq4zYgzDivw&list=PLSj-6RsDycxnKiIFFm0BFYoLLV5Np3K49&index=47) in a winter setting, and I reckon an underrated choice in the summer. The major minuses are a potential for draftiness, and lack of bug-proofing. The presence of snow makes reducing drafts possible. Another caveat is that the footprint can be large, making them difficult or impossible to set up in tight quarters.
@@ -77,14 +77,14 @@ png
 
 <figure>
     <img src="/trs/250305-tent-review/trekkingtent.jpg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <figcaption>A good trekking pole tent high up in the Sierra</figcaption>
 </figure> 
 
 * **Free-standing tents:** The default\! Many excellent options, though the convenience of poles can carry a weight penalty. I would say it’s hard to go wrong here – just make sure to look for long-term reviews to assess durability. In my view, a cheap, backpacking oriented-tent is a great first tent to start with because you can use it for literally everything, and you will keep using it as a beater ad-infinitum. However, the more expensive lightweight ones are not worth it unless you’re doing some crazy stuff.
 
 <figure>
     <img src="/trs/250305-tent-review/tent.jpg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <figcaption>A classic free-standing tent under San Gorgonio!</figcaption>
 </figure> 
 
 For all but the most extra of outings, I find myself with some kind of tent in my backpack. Moreover, in the hot and buggy summer months, I consider some kind of net to be basically essential if I’m going to backpack into Kings Canyon. In any case, even among trekking pole tents and free standing tents, there are many options to consider, which we discuss below.
