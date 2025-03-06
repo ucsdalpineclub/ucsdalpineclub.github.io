@@ -13,9 +13,12 @@ header:
 
 *Sometime in November 2024, I developed a non-life threatening medical condition forcing me to be (mostly) horizontal for several months. As part of an effort to stave off the beasts of boredom and apathy, I decided to write… a gear review?*
 
-For people who currently own 0 tents, I would recommend a cheap, backpacking oriented, free-standing tent for 2-3 people, something like [this one](https://www.rei.com/product/242714/the-north-face-stormbreak-2-tent) – in 2025, with a little sleuthing, these'll cost you anywhere from 100-200 dollars and weigh 4-6 pounds. For everyone else, read on.
-
 **This was written as a reference for California folks looking to buy a tent for backpacking specifically, in particular those looking to upgrade**… I lay out my decision-making process in pain-staking detail below. Please keep in mind that this calculus is highly regional\! I don’t pretend to know what is good for the Bavarian Alps, that would be dumb. Adapt this to your ranges of interest.
+
+For the sake of completeness, if you're buying your first-ever tent, I would recommend a cheap, backpacking oriented, free-standing tent for 2-3 people, something like [this one](https://www.rei.com/product/242714/the-north-face-stormbreak-2-tent) – in 2025, with a little sleuthing, these'll cost you anywhere from 100-200 dollars and weigh 4-6 pounds. 
+
+For everyone else, read on.
+
 
 ## Prelude: What I was looking for in a backpacking tent
 
