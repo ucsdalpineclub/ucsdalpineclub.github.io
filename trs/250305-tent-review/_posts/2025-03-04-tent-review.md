@@ -63,7 +63,7 @@ Before we talk about specific models, we should consider the available sleep she
 * **Square Tarp:** Finicky as hell, best leave this for the thru-hikers. Do not recommend it as a permanent tent solution. You’ve got better things to do.
 
 <figure>
-    <img src="/trs/250305-tent-review/tarp.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/tarp.jpg" style="width:50%" class="center">
     <figcaption>How tarps were meant to be used.</figcaption>
 </figure> 
 
