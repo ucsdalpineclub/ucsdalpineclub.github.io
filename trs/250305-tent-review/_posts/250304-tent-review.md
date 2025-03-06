@@ -46,28 +46,28 @@ Before we talk about specific models, we should consider the available sleep she
 * **None**: For short trips, our weather is absolutely stable enough for cowboy camping\! If you do this, make sure you have a backup plan in case of an [unforecasted squall](https://photos.app.goo.gl/jexTMkdxdLfWzHix8). The plan can be a local [mineshaft](https://www.summitpost.org/basin-mountain/152557), a bivvy sack, you get the idea. BTW, protip: If you sleep under tree cover, you won’t lose as much heat to radiative cooling, either. You really can feel the difference\!
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/mineshaft.png" style="width:50%">
+    <img src="/trs/250305-tent-review/mineshaft.png" style="width:50%">
     <figcaption>Mineshaft for bivvying!</figcaption>
 </figure> 
 
 * **Bivvy sack:** An alright backup if you’re cowboy camping. Also appropriate for multi-day ridge adventures (inspo: Vitaliy’s [set-up](https://www.mountainproject.com/forum/topic/120957131/ultralight-backpacking-39lb-base-and-ridge-traversing-kit) for his [Goliath traverse](https://www.climbing.com/news/first-ascent-sierra-nevada-goliath-traverse/)). Personally I have only had the pleasure of using one of the cheap space-blankets once [before](https://ucsdalpineclub.github.io/the-invention-of-tuednesday/). The \+: it’s light and will protect you from wind and some rain, depending on the sack. The \-: a lack of… well, everything. Condensation can be a *bitch.*
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/bivvy.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/bivvy.jpg" style="width:50%">
     <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
 </figure> 
 
 * **Square Tarp:** Finicky as hell, best leave this for the thru-hikers. Do not recommend it as a permanent tent solution. You’ve got better things to do.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/tarp.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/tarp.jpg" style="width:50%">
     <figcaption>How tarps were meant to be used.</figcaption>
 </figure> 
 
 * **Hammocks:** Frequently hard or impossible to use above treeline, single person, and you will need to consider a tarp in case of inclement weather. Not a great one-stop option, but can be fun!
 png
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/hammock.jpeg" style="width:50%">
+    <img src="/trs/250305-tent-review/hammock.jpeg" style="width:50%">
     <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
 </figure> 
 
@@ -76,14 +76,14 @@ png
 * **Trekking pole tents:** There is a whole zoo of these, from the one your [grandpa owned](https://www.amazon.com/2-Person-Trekking-Pole-Backpacking-Frame/) (not recommended), to [basically normal tents](https://durstongear.com/products/x-mid-2-tent-ultralight-backpacking) that use trekking poles… in a sense, mids are also trekking pole tents\! Since this is my preferred option, I will elaborate on it below.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/trekkingtent.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/trekkingtent.jpg" style="width:50%">
     <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
 </figure> 
 
 * **Free-standing tents:** The default\! Many excellent options, though the convenience of poles can carry a weight penalty. I would say it’s hard to go wrong here – just make sure to look for long-term reviews to assess durability. In my view, a cheap, backpacking oriented-tent is a great first tent to start with because you can use it for literally everything, and you will keep using it as a beater ad-infinitum. However, the more expensive lightweight ones are not worth it unless you’re doing some crazy stuff.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/tent.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/tent.jpg" style="width:50%">
     <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
 </figure> 
 
