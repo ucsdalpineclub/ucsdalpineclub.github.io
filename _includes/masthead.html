@@ -9,10 +9,16 @@
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span id="site-subtitle" class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+          <span id="site-subtitle" class="site-subtitle">{{ site.subtitle }}</span>
         </a>
 	<script>
-	  const options = ["egg", "swamp", "precipice", "gutter", "vacuum"];
+	  const options = 
+	    ["Only take shortcuts you have time for.", 
+	     "Skins don't glide!", 
+	     "The best ice tool in SoCal is a fast car.", 
+	     "Aspiring Calpinists.", 
+	     "My fingers are numb and 30 feet of snow has fallen in the last twenty minutes.",
+	    ];
 	  const idx = Math.floor(Math.random() * options.length);
 	  document.getElementById("site-subtitle").textContent = options[idx];
 	</script>
