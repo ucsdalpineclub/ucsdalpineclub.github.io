@@ -2,7 +2,7 @@
 layout: single
 title:  "Horizontal Gear Review: Choosing a Backpacking Tent"
 author: Horizontal Mike
-date: 2025-03-05 12:19:43 -0700
+date: 2025-03-04 12:19:43 -0700
 classes: wide
 header:
   teaser: /trs/250305-tent-review/header.jpg
@@ -13,9 +13,12 @@ header:
 
 *Sometime in November 2024, I developed a non-life threatening medical condition forcing me to be (mostly) horizontal for several months. As part of an effort to stave off the beasts of boredom and apathy, I decided to write… a gear review?*
 
-For people who currently own 0 tents, I would recommend a cheap, backpacking oriented, free-standing tent for 2-3 people, something like [this one](https://www.rei.com/product/242714/the-north-face-stormbreak-2-tent) – in 2025, with a little sleuthing, these'll cost you anywhere from 100-200 dollars and weigh 4-6 pounds. For everyone else, read on.
-
 **This was written as a reference for California folks looking to buy a tent for backpacking specifically, in particular those looking to upgrade**… I lay out my decision-making process in pain-staking detail below. Please keep in mind that this calculus is highly regional\! I don’t pretend to know what is good for the Bavarian Alps, that would be dumb. Adapt this to your ranges of interest.
+
+For the sake of completeness, if you're buying your first-ever tent, I would recommend a cheap, backpacking oriented, free-standing tent for 2-3 people, something like [this one](https://www.rei.com/product/242714/the-north-face-stormbreak-2-tent) – in 2025, with a little sleuthing, these'll cost you anywhere from 100-200 dollars and weigh 4-6 pounds. 
+
+For everyone else, read on.
+
 
 ## Prelude: What I was looking for in a backpacking tent
 
@@ -44,31 +47,31 @@ Having laid out the problem before us, let’s take a look at the available solu
 Before we talk about specific models, we should consider the available sleep shelter types. I’ve ordered these from least-tent to most-tent.
 
 * **None**: For short trips, our weather is absolutely stable enough for cowboy camping\! If you do this, make sure you have a backup plan in case of an [unforecasted squall](https://photos.app.goo.gl/jexTMkdxdLfWzHix8). The plan can be a local [mineshaft](https://www.summitpost.org/basin-mountain/152557), a bivvy sack, you get the idea. BTW, protip: If you sleep under tree cover, you won’t lose as much heat to radiative cooling, either. You really can feel the difference\!
-
+<center>
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/mineshaft.png" style="width:50%">
+    <img src="/trs/250305-tent-review/mineshaft.jpg" style="width:50%">
     <figcaption>Mineshaft for bivvying!</figcaption>
 </figure> 
-
+</center>
 * **Bivvy sack:** An alright backup if you’re cowboy camping. Also appropriate for multi-day ridge adventures (inspo: Vitaliy’s [set-up](https://www.mountainproject.com/forum/topic/120957131/ultralight-backpacking-39lb-base-and-ridge-traversing-kit) for his [Goliath traverse](https://www.climbing.com/news/first-ascent-sierra-nevada-goliath-traverse/)). Personally I have only had the pleasure of using one of the cheap space-blankets once [before](https://ucsdalpineclub.github.io/the-invention-of-tuednesday/). The \+: it’s light and will protect you from wind and some rain, depending on the sack. The \-: a lack of… well, everything. Condensation can be a *bitch.*
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/bivvy.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/bivvy.jpg" style="width:50%">
     <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
 </figure> 
 
 * **Square Tarp:** Finicky as hell, best leave this for the thru-hikers. Do not recommend it as a permanent tent solution. You’ve got better things to do.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/tarp.jpg" style="width:50%">
+    <img src="/trs/250305-tent-review/tarp.jpg" style="width:50%" class="center">
     <figcaption>How tarps were meant to be used.</figcaption>
 </figure> 
 
 * **Hammocks:** Frequently hard or impossible to use above treeline, single person, and you will need to consider a tarp in case of inclement weather. Not a great one-stop option, but can be fun!
 png
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/hammock.jpeg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <img src="/trs/250305-tent-review/hammock.jpeg" style="width:50%">
+    <figcaption>Great for relaxing, not so much for camping above treeline</figcaption>
 </figure> 
 
 * **Mids:** A popular choice for a mess or [even for sleep](https://www.youtube.com/watch?v=uq4zYgzDivw&list=PLSj-6RsDycxnKiIFFm0BFYoLLV5Np3K49&index=47) in a winter setting, and I reckon an underrated choice in the summer. The major minuses are a potential for draftiness, and lack of bug-proofing. The presence of snow makes reducing drafts possible. Another caveat is that the footprint can be large, making them difficult or impossible to set up in tight quarters.
@@ -76,15 +79,15 @@ png
 * **Trekking pole tents:** There is a whole zoo of these, from the one your [grandpa owned](https://www.amazon.com/2-Person-Trekking-Pole-Backpacking-Frame/) (not recommended), to [basically normal tents](https://durstongear.com/products/x-mid-2-tent-ultralight-backpacking) that use trekking poles… in a sense, mids are also trekking pole tents\! Since this is my preferred option, I will elaborate on it below.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/trekkingtent.jpg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <img src="/trs/250305-tent-review/trekkingtent.jpg" style="width:50%">
+    <figcaption>A good trekking pole tent high up in the Sierra</figcaption>
 </figure> 
 
 * **Free-standing tents:** The default\! Many excellent options, though the convenience of poles can carry a weight penalty. I would say it’s hard to go wrong here – just make sure to look for long-term reviews to assess durability. In my view, a cheap, backpacking oriented-tent is a great first tent to start with because you can use it for literally everything, and you will keep using it as a beater ad-infinitum. However, the more expensive lightweight ones are not worth it unless you’re doing some crazy stuff.
 
 <figure>
-    <img src="/trs/250204-mighty-mountain-men/tent.jpg" style="width:50%">
-    <figcaption>From an unfortunate morning spent on top of Sentinel Rock</figcaption>
+    <img src="/trs/250305-tent-review/tent.jpg" style="width:50%">
+    <figcaption>A classic free-standing tent under San Gorgonio!</figcaption>
 </figure> 
 
 For all but the most extra of outings, I find myself with some kind of tent in my backpack. Moreover, in the hot and buggy summer months, I consider some kind of net to be basically essential if I’m going to backpack into Kings Canyon. In any case, even among trekking pole tents and free standing tents, there are many options to consider, which we discuss below.
